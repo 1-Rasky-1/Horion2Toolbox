@@ -1,0 +1,12 @@
+{
+    "url": "https://1-rasky-1.github.io/Horion2Toolbox/",
+    "author_name": "Rasky1",
+    "author_url": "https://github.com/1-Rasky-1",
+    "type": "rich",
+    "provider_name": "AntiBanJapan",
+    "provider_url": "https://discord.gg/abj",
+    "version": "1.0",
+    "html": "<iframe src='https://taiko.kairun.jp'></iframe>",
+    "width": 550,
+    "height": null
+}
