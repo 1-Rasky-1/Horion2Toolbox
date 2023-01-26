@@ -1,2 +1,0 @@
-# Horion2Toolbox
-Horion用のNBTをToolbox対応に変換
